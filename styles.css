@@ -301,6 +301,7 @@ nav {
     font-size: 1rem;
     font-family: inherit;
     transition: border-color 0.3s;
+    margin-top: 0.5rem;
 }
 
 .form-group input:focus,
