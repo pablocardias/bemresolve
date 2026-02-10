@@ -1,0 +1,9 @@
+<svg width="800" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- BemResolve text -->
+  <text x="50" y="140" font-family="Arial, sans-serif" font-size="120" font-weight="700" fill="white">
+    <tspan>BemResolve</tspan>
+  </text>
+  
+  <!-- Checkmark -->
+  <path d="M720 60 L750 90 L800 40" stroke="white" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>

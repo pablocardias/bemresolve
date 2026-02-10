@@ -71,19 +71,11 @@ nav {
     text-align: center;
 }
 
-.hero h1 {
-    font-size: 4rem;
-    margin-bottom: 1rem;
-    font-weight: 700;
-}
-
-.hero .resolve {
-    color: white;
-}
-
-.hero .checkmark {
-    color: white;
-    font-size: 4rem;
+.hero-logo {
+    max-width: 600px;
+    width: 100%;
+    height: auto;
+    margin-bottom: 2rem;
 }
 
 .hero .tagline {
@@ -357,12 +349,8 @@ footer .container {
         gap: 1rem;
     }
     
-    .hero h1 {
-        font-size: 2.5rem;
-    }
-    
-    .hero .checkmark {
-        font-size: 2.5rem;
+    .hero-logo {
+        max-width: 400px;
     }
     
     .hero .tagline {
@@ -403,12 +391,8 @@ footer .container {
         padding: 60px 20px;
     }
     
-    .hero h1 {
-        font-size: 2rem;
-    }
-    
-    .hero .checkmark {
-        font-size: 2rem;
+    .hero-logo {
+        max-width: 280px;
     }
     
     .hero .tagline {
