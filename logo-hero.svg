@@ -1,9 +1,14 @@
-<svg width="800" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <!-- BemResolve text -->
-  <text x="50" y="140" font-family="Arial, sans-serif" font-size="120" font-weight="700" fill="white">
-    <tspan>BemResolve</tspan>
+<svg width="900" height="250" viewBox="0 0 900 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Bem (cinza) -->
+  <text x="20" y="180" font-family="Arial, sans-serif" font-size="140" font-weight="700" font-style="italic" fill="#4A5568">
+    <tspan>Bem</tspan>
   </text>
-  
-  <!-- Checkmark -->
-  <path d="M720 60 L750 90 L800 40" stroke="white" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+
+  <!-- Resolve (verde) -->
+  <text x="280" y="180" font-family="Arial, sans-serif" font-size="140" font-weight="700" font-style="italic" fill="#22c55e">
+    <tspan>Resolve</tspan>
+  </text>
+
+  <!-- Checkmark verde -->
+  <path d="M780 80 L820 120 L880 60" stroke="#22c55e" stroke-width="25" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
 </svg>
